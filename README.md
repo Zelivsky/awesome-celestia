@@ -1424,3 +1424,15 @@ These resources document earlier testnets and are not current node installation 
 * [Celestia network scanner](https://cosmowiz.com/network/celestia) — Public endpoint discovery.
 
 ---
+
+### Contributions by [Apollo](https://apollo-validator.eu/)
+
+#### Mainnet
+- **Installation Guide**: [Link](https://github.com/Zelivsky/celestia-services/blob/main/guide.md)
+- **State Sync**: [Link](https://snapshots.apollo-validator.eu/celestia/statesync.html)  
+- **Snapshots**: [Link](https://snapshots.apollo-validator.eu/celestia/)
+- **Peers List**: [Link](https://snapshots.apollo-validator.eu/celestia/peers.html)
+- **Telegram Bot**: [Link](https://t.me/celestia_monitoring_bot)
+- **RPC**: [https://rpc.apollo-validator.eu/celestia/](https://rpc.apollo-validator.eu/celestia/)
+
+---
